@@ -1,0 +1,26 @@
+{
+  "name": "com.ituuz.easyconverse",
+  "version": "0.0.1",
+  "displayName": "EasyConverse",
+  "description": "easy converse",
+  "dependencies": {
+    
+  },
+  "hideInEditor": false,
+  "keywords": [
+    "converse",
+    "dialogue"
+  ],
+  "author": {
+    "name": "ituuz",
+    "email": "ituuz@gmail.com",
+    "url": "https://"
+  },
+  "samples": [
+    {
+      "displayName": "samples",
+      "description": "samples",
+      "path": "Samples~/samples"
+    }
+  ]
+}
